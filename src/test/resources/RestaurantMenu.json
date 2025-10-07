@@ -1,0 +1,15 @@
+{
+  "title": "menu",
+  "season": "Autumn",
+  "dishes": {
+    "Ribeye steak": {
+      "ingredients": ["Ribeye beef cut", "Butter", "Rosemary", "Salt", "Pepper"],
+      "priceInRubles": 3590
+    },
+
+    "Risotto with white mushrooms": {
+      "ingredients":["Orzo", "White mushrooms", "Olive oil", "White wine", "Parmesan Cheese", "Truffle"],
+      "price": 890
+    }
+  }
+}
